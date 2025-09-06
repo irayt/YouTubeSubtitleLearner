@@ -1,0 +1,9 @@
+[
+  {"start": 0.0, "duration": 2.5, "text": "Hello everyone, welcome to this video"},
+  {"start": 2.5, "duration": 3.0, "text": "Today we're going to learn something new"},
+  {"start": 5.5, "duration": 2.8, "text": "This is a sample subtitle for testing"},
+  {"start": 8.3, "duration": 3.2, "text": "You can see how subtitles sync with video"},
+  {"start": 11.5, "duration": 2.7, "text": "Each subtitle has start time and duration"},
+  {"start": 14.2, "duration": 3.5, "text": "The current subtitle will be highlighted"},
+  {"start": 17.7, "duration": 2.9, "text": "Thank you for watching this demo"}
+]

@@ -1,0 +1,22 @@
+# Secrets (do not commit real keys)
+YouTubeSubtitleLearner/Config/Secrets.plist
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdata
+
+# DerivedData (if repository root)
+DerivedData/
+
+# Python worker local env and artifacts
+backend/worker/python/.env
+backend/worker/python/.venv*
+backend/worker/python/worker.log
+
+# OS/filesystem noise
+.DS_Store
+
+# Large legacy archives
+subtitle-learner-expo_legacy.tgz
+subtitle-learner-expo/
+backend/
