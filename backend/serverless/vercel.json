@@ -1,0 +1,8 @@
+
+{
+  "functions": {
+    "api/get_audio_url.py": {
+      "maxDuration": 30
+    }
+  }
+}
